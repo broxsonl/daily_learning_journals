@@ -10,3 +10,5 @@ Worked for about 4 hours at a bar to try and figure out how to:
 
 - Fix the per click tally
 - Generate only pictures that were not generated on the prior generation
+
+I eventually got there and it was well worth the effort. Time for bed! :)
